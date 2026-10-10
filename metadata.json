@@ -1,0 +1,6 @@
+{
+  "name": "Pimp My Nails by Solam Beauty",
+  "description": "Salon de beauté de luxe à Casablanca (Palmier) - Onglerie, Coiffure & Esthétique. Tarifs officiels, galerie du salon et réservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
